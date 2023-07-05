@@ -1,0 +1,9 @@
+C:\Users\andru\source\repos\Final 1\Final 1\bin\Debug\Final 1.dll
+C:\Users\andru\source\repos\Final 1\Final 1\bin\Debug\Final 1.pdb
+C:\Users\andru\source\repos\Final 1\Final 1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andru\source\repos\Final 1\Final 1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andru\source\repos\Final 1\Final 1\obj\Debug\Final 1.csproj.AssemblyReference.cache
+C:\Users\andru\source\repos\Final 1\Final 1\obj\Debug\Final 1.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\Final 1\Final 1\obj\Debug\Final 1.csproj.CopyComplete
+C:\Users\andru\source\repos\Final 1\Final 1\obj\Debug\Final 1.dll
+C:\Users\andru\source\repos\Final 1\Final 1\obj\Debug\Final 1.pdb
